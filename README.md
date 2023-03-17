@@ -1,5 +1,5 @@
-# Projet de Data Science - Santé publique France
-Ce projet consiste à réaliser une analyse exploratoire de données en utilisant Python sur le jeu de données Open Food. L'objectif est de rendre les données de santé plus accessibles et compréhensibles pour les agents de l'agence Santé publique France.
+# Préparez des données pour un organisme de santé publique
+Ce projet consiste à réaliser une analyse exploratoire de données en utilisant Python sur le jeu de données Open Food Facts. L'objectif est de rendre les données de santé plus accessibles et compréhensibles pour les agents de l'agence Santé publique France.
 
 ## Étapes du projet
 - **Traitement des données :** Le jeu de données doit être traité pour repérer les variables pertinentes pour les traitements à venir. Les traitements doivent être automatisés pour éviter de répéter les opérations. Le programme doit être capable de fonctionner même si la base de données est légèrement modifiée (ajout d'entrées, par exemple).
